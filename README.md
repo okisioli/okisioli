@@ -71,7 +71,7 @@ Masaryk University, Brno
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/oliver-gašpar-b8281852)
-- [GitHub](https://github.com/oli-g-sk)
 - [Email](mailto:oliver.g.sk@gmail.com)
 - [Phone](tel:+421949853547)
+- [GitHub](https://github.com/okisioli)
+- [LinkedIn](https://www.linkedin.com/in/oliver-gašpar-b8281852)
