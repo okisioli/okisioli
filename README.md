@@ -2,9 +2,9 @@
 
 > **Senior Software Engineer** based in Brno, Czech Republic
 
-I build desktop, web, and mobile applications (primarily across the .NET ecosystem) with 15 years of experience across the full software stack.
+I build **desktop, web, and mobile** applications (primarily across the **.NET ecosystem**) with 15 years of experience across the **full software stack**.
 
-Currently, I'm focused on cloud-native development and practical AI-assisted engineering.
+Currently, I'm focused on cloud-native development and **practical AI-assisted engineering**.
 
 ## 🚀 What I Do
 
@@ -16,10 +16,10 @@ Currently, I'm focused on cloud-native development and practical AI-assisted eng
 
 ## 🛠️ Core Stack
 
-- **Languages & Frameworks:** C#, .NET Core, ASP.NET Core, WPF, WinForms, Avalonia, MAUI, Xamarin, Java, Spring Boot, SQL
+- **Languages & Frameworks:** C#, .NET Core, ASP.NET, WPF, WinForms, Avalonia, MAUI, Xamarin, Java, Spring Boot, PostgreSQL
 - **Architecture & APIs:** REST, gRPC, MVVM, dependency injection, microservices, test-driven development
 - **Mobile:** Android SDK, Flutter, Jetpack, MAUI
-- **Cloud & Tools:** Azure, Docker, Git, GitHub Actions, Jenkins, Supabase, Firebase, Sentry, n8n
+- **Cloud & Tools:** Azure, Docker, Git, GitHub Actions, Jenkins, Supabase, Firebase, Sentry, n8n, CLI, Codex
 
 ## 💼 Selected Experience
 
