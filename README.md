@@ -16,20 +16,20 @@ Currently, I'm focused on cloud-native development and **practical AI-assisted e
 
 ## 🛠️ Core Stack
 
-- **Languages & Frameworks:** C#, .NET Core, ASP.NET, WPF, WinForms, Avalonia, MAUI, Xamarin, Java, Spring Boot, PostgreSQL
+- **Languages & Frameworks:** C#, .NET Core, ASP.NET, WPF, WinForms, Java, Spring Boot, PostgreSQL
 - **Architecture & APIs:** REST, gRPC, MVVM, dependency injection, microservices, test-driven development
-- **Mobile:** Avalonia, Android SDK, Flutter, Jetpack, MAUI
-- **Cloud & Tools:** Azure, Docker, Git, GitHub Actions, Jenkins, Supabase, Firebase, Sentry, n8n, CLI, Codex
+- **Mobile:** [Avalonia](https://avaloniaui.net/), Android SDK, [Jetpack](https://developer.android.com/jetpack), [Flutter](https://flutter.dev/), MAUI, Xamarin
+- **Cloud & Tools:** Azure, Docker, Git, GitHub Actions, Jenkins, [Supabase](https://supabase.com/), Firebase, [Sentry](https://sentry.io/welcome/), n8n, CLI, Codex
 
 ## 💼 Selected Experience
 
-### Bagira Systems
+### [Bagira Systems](https://www.bagirasys.com/)
 *November 2025 — February 2026*
 
 - Integrated a custom WPF framework into a mission-critical application under a tight deadline
 - Improved several widgets for better usability and long-term maintainability
 
-### Chyron
+### [Chyron](https://chyron.com/)
 *October 2020 — October 2025*
 
 - Delivered new features, pieces of UI, and UX/usability improvements for the PRIME sports broadcast graphics platform
