@@ -18,7 +18,7 @@ Currently, I'm focused on cloud-native development and **practical AI-assisted e
 
 - **Languages & Frameworks:** C#, .NET Core, ASP.NET, WPF, WinForms, Avalonia, MAUI, Xamarin, Java, Spring Boot, PostgreSQL
 - **Architecture & APIs:** REST, gRPC, MVVM, dependency injection, microservices, test-driven development
-- **Mobile:** Android SDK, Flutter, Jetpack, MAUI
+- **Mobile:** Avalonia, Android SDK, Flutter, Jetpack, MAUI
 - **Cloud & Tools:** Azure, Docker, Git, GitHub Actions, Jenkins, Supabase, Firebase, Sentry, n8n, CLI, Codex
 
 ## 💼 Selected Experience
