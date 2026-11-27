@@ -2,9 +2,9 @@
 
 > **Senior Software Engineer** based in Brno, Czech Republic
 
-I build **desktop, web, and mobile** applications (primarily across the **.NET ecosystem**) with 15 years of experience across the **full software stack**.
+I build **desktop, web, and mobile** applications (primarily across the **.NET ecosystem**) with 15 years of experience across the **full software stack**. Currently, I'm focused on cloud-native development and **practical AI-assisted engineering**.
 
-Currently, I'm focused on cloud-native development and **practical AI-assisted engineering**.
+If you're here to view my work experience, you can [compile my CV yourself here](https://github.com/okisioli/my-cv), or download it in [light](https://okisioli.github.io/my-cv/cv-light.pdf) or [dark](https://okisioli.github.io/my-cv/cv-dark.pdf) mode.
 
 ## 🚀 What I Do
 
@@ -23,55 +23,8 @@ Currently, I'm focused on cloud-native development and **practical AI-assisted e
 
 ## 💼 Selected Experience
 
-### [Bagira Systems](https://www.bagirasys.com/)
-*November 2025 — February 2026*
-
-- Integrated a custom WPF framework into a mission-critical application under a tight deadline
-- Improved several widgets for better usability and long-term maintainability
-
-### [Chyron](https://chyron.com/)
-*October 2020 — October 2025*
-
-- Delivered new features, pieces of UI, and UX/usability improvements for the PRIME sports broadcast graphics platform
-- Improved stability across a complex hybrid WPF/Windows Forms application
-- Refactored operation-critical components responsible for recurring customer issues
-- Helped shape two green-field products (WPF and ASP.NET Core)
-- Migrated important chunks of functionality to WPF
-- Built internal tools for developers and QA
-
-### Turing Technology
-*April 2018 — September 2020*
-
-- Developed native Android and WPF applications
-- Led parts of UI implementation and performance optimization
-- Contributed to architecture decisions and engineering best practices
-- Experimented with Flutter for internal research
-
-## 🧪 Personal Projects & Experiments
-
-- **AI language-learning suite** — Translation, transcription, speech, subtitles, and desktop tools powered by OpenAI APIs
-- **Spending tracker** — Cross-platform .NET/Avalonia app backed by Supabase
-- **Live wallpaper app** — Turns camera roll footage into randomized Android wallpapers
-- **Restaurant rating app** — A unique Java/Spring Boot approach to discovering dining options
-- **Static site generator** — JSON-backed GitHub Pages project templates
-- **Developer tools** — Small applications and experiments built to explore interesting technical challenges
-
-## 🌍 Languages
-
-- English — Fluent
-- Slovak — Native
-- Czech — Native
-- German — Elementary
-
-## 🎓 Education
-
-**Applied Informatics**  
-Masaryk University, Brno  
-2009–2014
-
 ## 📫 Connect
 
 - [Email](mailto:oliver.g.sk@gmail.com)
 - [Phone](tel:+421949853547)
 - [GitHub](https://github.com/okisioli)
-- [LinkedIn](https://www.linkedin.com/in/oliver-gašpar-b8281852)
