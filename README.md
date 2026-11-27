@@ -4,6 +4,8 @@
 
 I build **desktop, web, and mobile** applications (primarily across the **.NET ecosystem**) with 15 years of experience across the **full software stack**. Currently, I'm focused on cloud-native development and **practical AI-assisted engineering**.
 
+## 💼 Work Experience
+
 If you're here to view my work experience, you can [compile my CV yourself here](https://github.com/okisioli/my-cv), or download it in [light](https://okisioli.github.io/my-cv/cv-light.pdf) or [dark](https://okisioli.github.io/my-cv/cv-dark.pdf) mode.
 
 ## 🚀 What I Do
@@ -20,8 +22,6 @@ If you're here to view my work experience, you can [compile my CV yourself here]
 - **Architecture & APIs:** REST, gRPC, MVVM, dependency injection, microservices, test-driven development
 - **Mobile:** [Avalonia](https://avaloniaui.net/), Android SDK, [Jetpack](https://developer.android.com/jetpack), [Flutter](https://flutter.dev/), MAUI, Xamarin
 - **Cloud & Tools:** Azure, Docker, Git, GitHub Actions, Jenkins, [Supabase](https://supabase.com/), Firebase, [Sentry](https://sentry.io/welcome/), n8n, CLI, Codex
-
-## 💼 Selected Experience
 
 ## 📫 Connect
 
