@@ -10,11 +10,11 @@ If you're here to view my work experience, you can [compile my CV yourself here]
 
 ## 🚀 What I Do
 
-- Build maintainable APIs, backend services, and desktop applications
+- Build maintainable **APIs**, **backend services**, amd **desktop & mobile applications**
 - Create native, intuitive, and accessible user experiences
-- Work comfortably across UI, backend, architecture, and DevOps
-- Modernize legacy systems and reduce technical debt
-- Improve developer workflows and application performance
+- Work comfortably across **UI, backend, architecture, and DevOps**
+- **Modernize legacy systems** and reduce technical debt
+- Improve developer workflows and **application performance**
 
 ## 🛠️ Core Stack
 
