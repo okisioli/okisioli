@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Oliver!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=2CE19D&vCenter=true&repeat=false&width=435&height=40&lines=Senior+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=2CE19D&vCenter=true&repeat=false&width=435&height=40&lines=%E2%96%88++Senior+Software+Engineer)](https://git.io/typing-svg)
 
 I build **desktop, web, and mobile** applications (primarily across the **.NET ecosystem**) with 15 years of experience across the **full software stack**. Currently, I'm focused on cloud-native development and **practical AI-assisted engineering**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&color=2CE19D&width=435&lines=backend%2C+desktop%2C+mobile;C%23%2C+ASP.NET+Core%2C+Entity+Framework;REST+API%2C+gRPC%2C+PostgreSQL;Java%2C+Spring+Boot%2C+JOOQ;WPF%2C+Avalonia%2C+MAUI%2C+Xamarin;Android%2C+Jetpack%2C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&color=2CE19D&width=435&lines=%3E+backend%2C+desktop%2C+mobile;%3E+C%23%2C+ASP.NET+Core%2C+Entity+Framework;%3E+REST+API%2C+gRPC%2C+PostgreSQL;%3E+Java%2C+Spring+Boot%2C+JOOQ;%3E+WPF%2C+Avalonia%2C+MAUI%2C+Xamarin;%3E++Android%2C+Jetpack%2C+Flutter)](https://git.io/typing-svg)
 ## 💼 Work Experience
 
 If you're here to view my work experience, you can [compile my CV yourself here](https://github.com/okisioli/my-cv), or download it in [light](https://okisioli.github.io/my-cv/cv-light.pdf) or [dark](https://okisioli.github.io/my-cv/cv-dark.pdf) mode.
