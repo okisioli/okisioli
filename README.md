@@ -4,6 +4,7 @@
 
 I build **desktop, web, and mobile** applications (primarily across the **.NET ecosystem**) with 15 years of experience across the **full software stack**. Currently, I'm focused on cloud-native development and **practical AI-assisted engineering**.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=2CE19D&random=true&width=435&lines=.NET+Core+%26+backend;desktop+%26+mobile+apps;REST+API%2C+gRPC%2C+PostgreSQL;Java%2C+Spring+Boot%2C+Android;WPF%2C+Avalonia%2C+MAUI%2C+Flutter)](https://git.io/typing-svg)
 ## 💼 Work Experience
 
 If you're here to view my work experience, you can [compile my CV yourself here](https://github.com/okisioli/my-cv), or download it in [light](https://okisioli.github.io/my-cv/cv-light.pdf) or [dark](https://okisioli.github.io/my-cv/cv-dark.pdf) mode.
